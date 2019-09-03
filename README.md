@@ -1,4 +1,4 @@
-# equipe21 - Projet Session INF2015
+# Projet Session INF2015
 # Refund v1.2
 
 Logiciel qui calcule des remboursements de réclamations d'assurances de soins de santé.
